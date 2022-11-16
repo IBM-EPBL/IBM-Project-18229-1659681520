@@ -1,6 +1,7 @@
 # IBM-Project-18229-1659681520
 
-Early Detection of Chronic Kidney Disease using Machine Learning
+# Early Detection of Chronic Kidney Disease using Machine Learning
+
 Chronic Kidney Disease (CKD) is a major medical problem and can be cured if treated in the early stages.
 Usually, people are not aware that medical tests we take for different purposes could contain valuable information concerning kidney diseases. 
 Consequently, attributes of various medical tests are investigated to distinguish which attributes may contain helpful information about the disease. 
