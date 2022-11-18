@@ -1,4 +1,4 @@
 
-## PROJECT REPORT LINK --> [click here](https://drive.google.com/file/d/1wudLyXBt3VHJwG5P4PcJh4v_GKNFx7in/view?usp=drivesdk)
+## PROJECT REPORT LINK --> [click here](https://drive.google.com/file/d/1xKHU6f1bpwmqMjmlbNjMfkQTdXMRthw2/view?usp=sharing)
 
-## PROJECT DEMO LINK  -->[click here](https://youtu.be/r61JbZypIig) 
+## PROJECT DEMO LINK  -->[click here](https://youtu.be/YhV2gKwgd1U) 
